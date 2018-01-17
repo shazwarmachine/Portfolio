@@ -1,0 +1,96 @@
+
+.nav-pills{
+
+  font-size:1.7em;
+  background-color:black;
+}
+h1{
+
+  font-size:5.0em;
+}
+.pageone{
+  background:url(https://images.unsplash.com/photo-1484417894907-623942c8ee29?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&dl=emile-perron-190221.jpg&s=c590c11e34070198dea52afef80c6569);
+  background-size:cover;
+  height:600px;
+  padding-top:200px;
+  padding-bottom:100px;
+
+}
+body{
+  font-family:Lobster;
+  color:white;
+  background-color:black;
+}
+.btn-default{
+  background-color:black;
+  border-color:black;
+  color:#337ab7;
+  font-size:1.5em;
+}
+.block{
+  background-color:black;
+  opacity:0.8;
+
+
+  width:50%;
+  margin-left:auto;
+  margin-right:auto;
+ padding-bottom:30px;
+  border-radius:2%;
+  }
+.block2{
+  padding-top:30px;
+}
+.pagetwo{
+  background:url(https://images.unsplash.com/photo-1487284122274-e864e9dec2bf?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&dl=mark-solarski-209233.jpg&s=120454ded8af5b8b5c3f9ce2d9cc5106);
+  background-size:cover;
+  padding-bottom:10%;
+  padding-top:10%;
+  height:auto;
+  min-height:700px;
+
+
+}
+p{
+  font-size:2.0em;
+  color:black;
+}
+.photo{
+  
+
+
+}
+.me{
+  height:50%;
+  width:400px;
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+
+
+
+
+}
+.pagethree{
+  background:url(https://images.unsplash.com/photo-1477777404980-710a373f2d7e?ixlib=rb-0.3.5&q=85&fm=jpg&crop=entropy&cs=srgb&dl=priscilla-du-preez-156157.jpg&s=3aa9bd3df4823ddcc4075580ebdec251);
+  background-size:cover;
+
+ padding-top:5%;
+  padding-bottom:5%;
+
+}
+.pagefour{
+
+  padding-top:5px;
+  padding-bottom:5px;
+}
+.paddingbtn{
+  width:200px;
+  margin-bottom:25px;
+}
+.footer{
+  font-size:25px;
+}
+.footer p{
+  font-size:20px;
+}
